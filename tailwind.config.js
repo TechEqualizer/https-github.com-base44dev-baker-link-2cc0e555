@@ -96,6 +96,10 @@ export default {
         sans: ['Inter', 'system-ui', 'sans-serif'],
         mono: ['JetBrains Mono', 'monospace'],
       },
+      borderColor: {
+        DEFAULT: '#e5e5e5',
+        border: '#e5e5e5',
+      },
       spacing: {
         '18': '4.5rem',
         '88': '22rem',
